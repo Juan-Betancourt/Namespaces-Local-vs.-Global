@@ -38,3 +38,13 @@ print(f"enemies outside function: {enemies}")
 
 # create_enemy()
 
+# Global Constants
+
+PI = 3.14159
+URL = "https://www.google.com"
+TWITTER_HANDLE = "@yu_angela"
+
+
+def calc():
+  TWITTER_HANDLE = 
+
